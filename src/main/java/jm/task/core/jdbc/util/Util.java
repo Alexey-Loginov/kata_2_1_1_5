@@ -16,7 +16,7 @@ import java.util.Properties;
 
 public class Util {
     public static SessionFactory sessionFactory;
-    private static final String URL = "jdbc:mysql://localhost:3306/kata_2_1_1_4";
+    private static final String URL = "jdbc:mysql://localhost:3306/kata_2_1_1_5";
     private static final String USERNAME = "root";
     private static final String PASSWORD = "root";
 
